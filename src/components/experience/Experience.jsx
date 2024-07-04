@@ -63,8 +63,13 @@ const Experience = () => {
           </article>
           <article className='experience_content' >
              <BsPatchCheckFill className='experience_content-icon'/>
-             <div><h4>TYPESCRIPT</h4>
+             <div><h4>Git</h4>
              <small className='text-light' > Experienced</small></div>
+          </article>
+          <article className='experience_content' >
+             <BsPatchCheckFill className='experience_content-icon'/>
+             <div><h4>Foundatiion of Project Management</h4>
+             <small className='text-light' >Certified by Google</small></div>
           </article>
           <article className='experience_content' >
              <BsPatchCheckFill className='experience_content-icon'/>
@@ -73,13 +78,8 @@ const Experience = () => {
           </article>
           <article className='experience_content' >
              <BsPatchCheckFill className='experience_content-icon'/>
-             <div><h4>NEXT JS</h4>
-             <small className='text-light' > Experienced</small></div>
-          </article>
-          <article className='experience_content' >
-             <BsPatchCheckFill className='experience_content-icon'/>
-             <div><h4>POSTMAN</h4>
-             <small className='text-light' > Experienced</small></div>
+             <div><h4>Foundation of Digital Marketing</h4>
+             <small className='text-light' >Certified by Google</small></div>
           </article>
           <article className='experience_content' >
              <BsPatchCheckFill className='experience_content-icon'/>
@@ -88,13 +88,13 @@ const Experience = () => {
           </article>
           <article className='experience_content' >
              <BsPatchCheckFill className='experience_content-icon'/>
-             <div><h4>MATARIAL UI</h4>
-             <small className='text-light' > Experienced</small></div>
+             <div><h4>Foundation of Digital Marketing and E-Commerce</h4>
+             <small className='text-light' >Certified by Google</small></div>
           </article>
           <article className='experience_content' >
              <BsPatchCheckFill className='experience_content-icon'/>
-             <div><h4>JIRA</h4>
-             <small className='text-light' > Experienced</small></div>
+             <div><h4>Selenium</h4>
+             <small className='text-light' >Certified by Simplilearn</small></div>
           </article>
           </div>
           
