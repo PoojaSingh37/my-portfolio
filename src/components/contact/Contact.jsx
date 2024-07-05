@@ -73,7 +73,7 @@ const Contact = () => {
             <RiMessengerFill className="contact_option-icon" />
             <h4>Messenger</h4>
             <h5>Pooja singh</h5>
-            <a href="https://m.me/bhupi.000" target="_blank">
+            <a href="https://m.me/poojasingh" target="_blank">
               send a message
             </a>
           </article>
@@ -82,7 +82,7 @@ const Contact = () => {
             <h4>Whatsapp</h4>
             <h5>+9779809449137</h5>
             <a
-              href="https://api.whatsapp.com/send?phone=+9779865599757"
+              href="https://api.whatsapp.com/send?phone=9809449137"
               target="_blank"
             >
               send a message

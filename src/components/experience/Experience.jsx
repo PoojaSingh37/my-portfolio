@@ -68,7 +68,7 @@ const Experience = () => {
           </article>
           <article className='experience_content' >
              <BsPatchCheckFill className='experience_content-icon'/>
-             <div><h4>Foundatiion of Project Management</h4>
+             <div><h4>Foundation of Project Management</h4>
              <small className='text-light' >Certified by Google</small></div>
           </article>
           <article className='experience_content' >
@@ -78,7 +78,7 @@ const Experience = () => {
           </article>
           <article className='experience_content' >
              <BsPatchCheckFill className='experience_content-icon'/>
-             <div><h4>Foundation of Digital Marketing</h4>
+             <div><h4>Fundamentals of Digital Marketing</h4>
              <small className='text-light' >Certified by Google</small></div>
           </article>
           <article className='experience_content' >
@@ -97,8 +97,6 @@ const Experience = () => {
              <small className='text-light' >Certified by Simplilearn</small></div>
           </article>
           </div>
-          
-        
       </motion.div>
     </section>
   )
